@@ -6,7 +6,8 @@ body {
 
 /* Card */
 .bg {
-  width: 846px;
+  width: 847px;
+
   background-color: #ffffff;
   border-radius: 10px;
   box-shadow: 6px 10px 25px rgba(0, 0, 0, 0.1);
@@ -19,8 +20,8 @@ body {
 .static {
   display: flex;
   align-items: center;
-  padding: 30px;
-  gap: 30px;
+  padding: 0px;
+  gap: 20px;
   flex: 1;
 }
 
